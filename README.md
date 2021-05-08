@@ -1,2 +1,2 @@
 # Working-with-Data-Frames
-This notebook contains different datasets which are converted to dataframes and then using pandas and matplotlib, basic visualizations are created.
+This notebook contains code that shows intro work with pandas dataframes and working with numpy to manipulate arrays and do mathematical functions.
